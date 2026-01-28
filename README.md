@@ -11,4 +11,4 @@
 Скопируйте эту ссылку и вставьте в приложение в раздел **Subscription**:
 
 ```text
-[https://raw.githubusercontent.com/qopq1366/GameVPN_Vless/main/GameVpn.txt](https://raw.githubusercontent.com/qopq1366/GameVPN_Vless/main/GameVpn.txt)
+https://raw.githubusercontent.com/qopq1366/GameVPN_Vless/main/GameVpn.txt
